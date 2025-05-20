@@ -2,5 +2,6 @@
   This is just for study purpose.
 </H3>
 <H6>
-about git
+about git and github
+by akhil
 </H6>
